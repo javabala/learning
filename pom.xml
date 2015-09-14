@@ -59,6 +59,26 @@
 			<artifactId>kafka_2.10</artifactId>
 			<version>0.8.2.1</version>
 		</dependency>
+		<dependency>
+			<groupId>org.aredis</groupId>
+			<artifactId>aredis</artifactId>
+			<version>1.4</version>
+		</dependency>
+		<dependency>
+			<groupId>com.zaxxer</groupId>
+			<artifactId>HikariCP</artifactId>
+			<version>2.4.1</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-configuration</groupId>
+			<artifactId>commons-configuration</artifactId>
+			<version>1.10</version>
+		</dependency>
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>5.1.36</version>
+		</dependency>
 
 	</dependencies>
 	<build>
